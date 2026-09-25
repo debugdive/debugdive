@@ -1,26 +1,38 @@
 # Hi, I'm Sanika 👋
 
-### AI/ML Engineer in the Making 🤖
+### Aspiring AI/ML Engineer 🤖
 
-Final-year **Electronics & Computer Engineering student** with a minor in **Data Science**, passionate about **Machine Learning, Generative AI, Computer Vision, and Agentic AI**.
+I'm a final-year **Electronics & Computer Engineering student** with a minor in **Data Science**, interested in building intelligent systems across the **AI/ML stack**.
 
-### 🔧 Tech Stack
+I'm particularly interested in **Generative AI and Agentic AI**, especially systems that can reason, use tools, work with data, and automate real-world tasks. I also have a foundation in **Machine Learning, Deep Learning, Computer Vision, Data Science, Data Analytics, and Web Development**.
 
-`Python` `C/C++` `SQL` `Scikit-learn` `TensorFlow` `Keras` `OpenCV` `NumPy` `Pandas` `Ollama` `Gemini` `Streamlit` `MySQL` `Git`
+### 🛠️ Skills & Technologies
 
-### 🚀 Featured Projects
+**AI / ML:** `Python` `Scikit-learn` `TensorFlow` `Keras` `OpenCV` `LLMs` `Generative AI` `Agentic AI`
 
-* 🔬 **ResearchPilot** — Autonomous ML Research Assistant using Qwen3, Ollama & Scikit-learn
-* 🚨 **Sentinel Dispatch AI** — Real-time AI emergency response system using Gemini, VOSK & MySQL
-* 🤟 **Sign Language to Voice** — CNN-based sign language recognition with text-to-speech
-* 🪄 **Invisibility Cloak** — Real-time computer vision effect using OpenCV
+**Data:** `NumPy` `Pandas` `SQL` `Data Analysis` `Data Visualization`
 
-### 🌱 Currently Learning
+**GenAI:** `Ollama` `Qwen` `Gemini` `RAG` `AI Agents`
 
-**Machine Learning → Deep Learning → Generative AI → RAG → Agentic AI**
+**Development:** `Streamlit` `MySQL` `HTML` `CSS` `JavaScript` `Git` `GitHub`
 
-### 🎯 Interested In
+### 🚀 Projects
 
-**AI/ML Engineering • ML Research • Generative AI • Computer Vision • Intelligent Systems**
+* 🔬 **ResearchPilot** — Autonomous ML research assistant for hypothesis generation, experimentation, and result analysis.
+* 🔎 **RepoLens** — AI-powered tool for understanding and exploring software repositories using LLM-based analysis.
+* 🚨 **Sentinel Dispatch AI** — AI-powered emergency response system combining speech recognition, LLMs, location processing, and automation.
+* 🤟 **Sign Language to Voice** — CNN-based sign language recognition with real-time prediction and text-to-speech.
+* 🪄 **Invisibility Cloak** — Real-time computer vision project using OpenCV and image processing.
 
-> Learn. Build. Experiment. Improve.
+### 📚 Currently Exploring
+
+**Machine Learning → Deep Learning → Generative AI → RAG → Agentic AI → AI Engineering**
+
+I'm focused on understanding the **end-to-end AI stack** — from data and models to LLM applications, agents, tools, and deployment.
+
+### 🎯 Career Goal
+
+To grow as an **AI/ML Engineer** and build practical **GenAI and Agentic AI systems** that solve meaningful real-world problems.
+
+> Learn. Build. Experiment. Ship.
+
