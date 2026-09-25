@@ -1,6 +1,6 @@
 # Hi, I'm Sanika 👋
 
-### Aspiring AI/ML Engineer 🤖
+### Aspiring AI/ML Engineer 
 
 I'm a final-year **Electronics & Computer Engineering student** with a minor in **Data Science**, interested in building intelligent systems across the **AI/ML stack**.
 
@@ -16,13 +16,13 @@ I'm particularly interested in **Generative AI and Agentic AI**, especially syst
 
 **Development:** `Streamlit` `MySQL` `HTML` `CSS` `JavaScript` `Git` `GitHub`
 
-### 🚀 Projects
+###  Projects
 
-* 🔬 **ResearchPilot** — Autonomous ML research assistant for hypothesis generation, experimentation, and result analysis.
-* 🔎 **RepoLens** — AI-powered tool for understanding and exploring software repositories using LLM-based analysis.
-* 🚨 **Sentinel Dispatch AI** — AI-powered emergency response system combining speech recognition, LLMs, location processing, and automation.
-* 🤟 **Sign Language to Voice** — CNN-based sign language recognition with real-time prediction and text-to-speech.
-* 🪄 **Invisibility Cloak** — Real-time computer vision project using OpenCV and image processing.
+* **ResearchPilot** — Autonomous ML research assistant for hypothesis generation, experimentation, and result analysis.
+* **RepoLens** — AI-powered tool for understanding and exploring software repositories using LLM-based analysis.
+*  **Sentinel Dispatch AI** — AI-powered emergency response system combining speech recognition, LLMs, location processing, and automation.
+*  **Sign Language to Voice** — CNN-based sign language recognition with real-time prediction and text-to-speech.
+*  **Invisibility Cloak** — Real-time computer vision project using OpenCV and image processing.
 
 ### 📚 Currently Exploring
 
