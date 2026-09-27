@@ -81,18 +81,6 @@ My Approach
 
 I'm continuously learning by turning concepts into working projects and exploring how different parts of the AI stack fit together.
 
----
-Lets connect:
-
-<p align="left">
-  <a href="https://github.com/debugdive">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 
 Let's Connect:
 
