@@ -1,4 +1,4 @@
-# Hi, I'm Sanika 👋
+# Hi, I'm Sanika!
 
 ### Aspiring AI/ML Engineer 
 
@@ -6,7 +6,7 @@ I'm a final-year **Electronics & Computer Engineering student** with a minor in 
 
 I'm particularly interested in **Generative AI and Agentic AI**, especially systems that can reason, use tools, work with data, and automate real-world tasks. I also have a foundation in **Machine Learning, Deep Learning, Computer Vision, Data Science, Data Analytics, and Web Development**.
 
-### 🛠️ Skills & Technologies
+###  Skills & Technologies
 
 **AI / ML:** `Python` `Scikit-learn` `TensorFlow` `Keras` `OpenCV` `LLMs` `Generative AI` `Agentic AI`
 
@@ -24,13 +24,13 @@ I'm particularly interested in **Generative AI and Agentic AI**, especially syst
 *  **Sign Language to Voice** — CNN-based sign language recognition with real-time prediction and text-to-speech.
 *  **Invisibility Cloak** — Real-time computer vision project using OpenCV and image processing.
 
-### 📚 Currently Exploring
+###  Currently Exploring
 
 **Machine Learning → Deep Learning → Generative AI → RAG → Agentic AI → AI Engineering**
 
 I'm focused on understanding the **end-to-end AI stack** — from data and models to LLM applications, agents, tools, and deployment.
 
-### 🎯 Career Goal
+###  Career Goal
 
 To grow as an **AI/ML Engineer** and build practical **GenAI and Agentic AI systems** that solve meaningful real-world problems.
 
