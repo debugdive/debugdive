@@ -1,6 +1,35 @@
-## 🛠️ Tech Stack
+ Hi, I'm Sanika!
 
-### 🤖 AI & Machine Learning
+AI/ML Engineer in the Making | Generative AI • Agentic AI • Machine Learning
+
+I'm a final-year Electronics & Computer Engineering student with a minor in **Data Science**, interested in building practical AI systems and exploring the broader AI engineering stack.
+
+My primary interests are **Machine Learning, Generative AI, Agentic AI, Computer Vision, and AI Engineering. I enjoy working on systems that combine models with **data, tools, reasoning, APIs, and automation** rather than treating AI as just a model.
+
+I also have experience with **Data Science, Data Analytics, visualization, and basic web development, and I'm currently expanding my skills toward cloud and AI deployment with AWS
+
+I learn by building projects, experimenting with new technologies, debugging what breaks, and understanding how things work under the hood.
+
+---
+
+What I'm Building
+
+ResearchPilot
+An autonomous research agent using local LLMs, tools, web research, and reasoning workflows.
+
+RepoLens
+An MCP-powered GenAI agent that analyzes GitHub repositories and generates evidence-based insights.
+Sentinel Dispatch AI
+An AI-assisted emergency response and dispatch system combining computer vision, voice processing, and real-time information.
+
+Sign Language to Voice
+A computer vision project for recognizing sign language using deep learning.
+
+---
+
+Tech Stack
+
+AI & Machine Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -10,7 +39,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-### 🧠 Generative AI & Agentic AI
+Generative AI & Agentic AI
 
 <p align="left">
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
@@ -22,7 +51,7 @@
   <img src="https://img.shields.io/badge/AI_Agents-0F766E?style=for-the-badge" />
 </p>
 
-### 📊 Data Science & Analytics
+Data Science & Analytics
 
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -33,7 +62,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-### 💻 Development, Tools & Cloud
+Development, Tools & Cloud
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -48,3 +77,41 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-Currently_Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
+
+---
+
+Currently Exploring
+
+*  Agentic AI & autonomous AI systems
+*  LLM applications and local LLMs
+*  RAG, MCP & tool-using agents
+*  Machine Learning & Deep Learning
+*  Computer Vision
+*  AWS & cloud fundamentals
+*  AI system design and deployment
+
+---
+
+My Approach
+
+> Build → Break → Understand → Improve → Ship
+
+I'm continuously learning by turning concepts into working projects and exploring how different parts of the AI stack fit together.
+
+---
+Lets connect:
+
+<p align="left">
+  <a href="https://github.com/debugdive">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+
+### ⭐ Thanks for visiting!
+
+**Keep learning. Keep building. Keep experimenting.**
