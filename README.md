@@ -10,23 +10,6 @@ I also have experience with **Data Science, Data Analytics, visualization, and b
 
 I learn by building projects, experimenting with new technologies, debugging what breaks, and understanding how things work under the hood.
 
----
-
-What I'm Building
-
-ResearchPilot
-An autonomous research agent using local LLMs, tools, web research, and reasoning workflows.
-
-RepoLens
-An MCP-powered GenAI agent that analyzes GitHub repositories and generates evidence-based insights.
-Sentinel Dispatch AI
-An AI-assisted emergency response and dispatch system combining computer vision, voice processing, and real-time information.
-
-Sign Language to Voice
-A computer vision project for recognizing sign language using deep learning.
-
----
-
 Tech Stack
 
 AI & Machine Learning
